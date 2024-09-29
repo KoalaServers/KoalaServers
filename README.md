@@ -10,4 +10,4 @@ Quickstart:
 - Find the public road map under Projects.
 - Join our community by visiting our website or chatting on our Discord server:
 
-![Discord Banner 2](https://discord.com/api/guilds/972348607044943872/widget.png?style=banner2)
+[![Join our Discord](https://discord.com/api/guilds/972348607044943872/widget.png?style=banner2)](https://www.koalaservers.net/discord)
